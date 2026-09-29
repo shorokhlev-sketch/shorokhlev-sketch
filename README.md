@@ -11,7 +11,7 @@ AI engineer. I build LLM agents and the harness around Claude and Codex, and tak
 | Project | Result | Links |
 |---|---|---|
 | Floor plan pipeline | Turns a 114 page architectural PDF into vector plans for 279 apartments on 25 floors. 5 Sonnet agents close 25 floors in about 2 minutes. | [code](https://github.com/shorokhlev-sketch/floorplan-pipeline), [live](https://lab.prfo.design/maisi/select.html) |
-| Trade System | Accounting system and invoice OCR bot for a produce importer. The bot handled 10 to 30 handwritten invoices a day. The client bought out the code; I walk through the architecture on request. | [demo](https://lab.prfo.design/trade/) |
+| Trade System | Accounting system and invoice OCR bot for a produce importer. The bot handled 10 to 30 handwritten invoices a day. The client bought out the code; the AI part is rewritten as a public repo. | [OCR code](https://github.com/shorokhlev-sketch/invoice-ocr), [demo](https://lab.prfo.design/trade/) |
 | Telegram store | Shop for used Apple devices inside Telegram: one bot wizard lists a lot in the channel, the Mini App and the website. 340 tests run in 11 seconds. | [code](https://github.com/shorokhlev-sketch/telegram-store) |
 | Content Factory | Cuts a 23 minute episode into 5 to 7 vertical clips with burned subtitles for about $0.27 in API cost. | [code](https://github.com/shorokhlev-sketch/clip-factory), [live](https://factory.prfo.design) |
 | 26 MAISI | Sales site and CRM for a 26 floor tower in Batumi: 279 units, every lead tracked to its source. | [site code](https://github.com/shorokhlev-sketch/apartment-picker), [CRM code](https://github.com/shorokhlev-sketch/realestate-crm), [live](https://lab.prfo.design/maisi/) |
