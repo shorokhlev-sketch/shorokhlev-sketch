@@ -15,7 +15,7 @@ AI engineer. I build LLM agents and the harness around Claude and Codex, and tak
 | Telegram store | Shop for used Apple devices inside Telegram: one bot wizard lists a lot in the channel, the Mini App and the website. 340 tests run in 11 seconds. | [code](https://github.com/shorokhlev-sketch/telegram-store) |
 | Content Factory | Cuts a 23 minute episode into 5 to 7 vertical clips with burned subtitles for about $0.27 in API cost. | [code](https://github.com/shorokhlev-sketch/clip-factory), [live](https://factory.prfo.design) |
 | 26 MAISI | Sales site and CRM for a 26 floor tower in Batumi: 279 units, every lead tracked to its source. | [site code](https://github.com/shorokhlev-sketch/apartment-picker), [CRM code](https://github.com/shorokhlev-sketch/realestate-crm), [live](https://lab.prfo.design/maisi/) |
-| AI video production | Fashion and product films on Higgsfield: 6 campaigns, 244 generated frames, 47 clips. Claude works from a storyboard with a job bus. | [code](https://github.com/shorokhlev-sketch/ai-video-pipeline), [visuals](https://prfo.design) |
+| AI video production | Fashion and product films on Higgsfield: 6 campaigns, 244 generated frames, 47 clips. Claude works from a storyboard with a job bus. | [code](https://github.com/shorokhlev-sketch/ai-video-pipeline), [visuals](https://prfo.design/visual/) |
 | matscout | Personal course project: MCP server with 25 tools and a two phase research agent over materials databases. | [code](https://github.com/shorokhlev-sketch/matscout), [live](https://matscout.prfo.design) |
 
 Harness: [claude-skills](https://github.com/shorokhlev-sketch/claude-skills), Claude Code skills, working rules, agent loop template and multi-agent workflow examples.
